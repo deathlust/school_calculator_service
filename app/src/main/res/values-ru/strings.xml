@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Считатель</string>
+    <string name="parameter_count_mismatch">Мало параметров</string>
+    <string name="wrong_operation">Неверная операция</string>
+    <string name="zero_division">Деление на ноль</string>
+</resources>
